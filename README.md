@@ -1,3 +1,5 @@
+
+```
 CryptoBot
 ├─ .DS_Store
 ├─ CryptoBot
@@ -14,6 +16,7 @@ CryptoBot
 │  └─ wsgi.py
 ├─ README.md
 ├─ cryptoapplication
+│  ├─ .DS_Store
 │  ├─ __init__.py
 │  ├─ __pycache__
 │  │  ├─ __init__.cpython-312.pyc
@@ -32,9 +35,12 @@ CryptoBot
 │  ├─ static
 │  │  └─ cryptoapplication
 │  ├─ templates
+│  │  ├─ .DS_Store
 │  │  └─ cryptoapplication
-│  │     └─  home.html
+│  │     └─ home.html
 │  ├─ tests.py
 │  ├─ urls.py
 │  └─ views.py
 └─ manage.py
+
+```
